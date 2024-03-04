@@ -62,3 +62,5 @@ print("Uppercase text with dots replaced:", analyzer.uppercase_and_replace_dots(
 print("Total words:", analyzer.count_words())
 dots_per_sentence = analyzer.count_dots_per_sentence()
 print("Dots per sentence:", dots_per_sentence)
+
+
