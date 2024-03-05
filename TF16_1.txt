@@ -1,0 +1,5 @@
+Hello, world!
+This is a sample text file.
+With multiple lines of varying lengths.
+Words in this file are separated by spaces and punctuation marks.
+This is an example file for TF16_1.
