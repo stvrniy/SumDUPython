@@ -1,0 +1,16 @@
+D:\Program Files\Programs\Visual Studio 2019 Projects\laba8forms\laba8forms\bin\Debug\net8.0-windows\laba8forms.exe
+D:\Program Files\Programs\Visual Studio 2019 Projects\laba8forms\laba8forms\bin\Debug\net8.0-windows\laba8forms.deps.json
+D:\Program Files\Programs\Visual Studio 2019 Projects\laba8forms\laba8forms\bin\Debug\net8.0-windows\laba8forms.runtimeconfig.json
+D:\Program Files\Programs\Visual Studio 2019 Projects\laba8forms\laba8forms\bin\Debug\net8.0-windows\laba8forms.dll
+D:\Program Files\Programs\Visual Studio 2019 Projects\laba8forms\laba8forms\bin\Debug\net8.0-windows\laba8forms.pdb
+D:\Program Files\Programs\Visual Studio 2019 Projects\laba8forms\laba8forms\obj\Debug\net8.0-windows\laba8forms.Form1.resources
+D:\Program Files\Programs\Visual Studio 2019 Projects\laba8forms\laba8forms\obj\Debug\net8.0-windows\laba8forms.csproj.GenerateResource.cache
+D:\Program Files\Programs\Visual Studio 2019 Projects\laba8forms\laba8forms\obj\Debug\net8.0-windows\laba8forms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\Programs\Visual Studio 2019 Projects\laba8forms\laba8forms\obj\Debug\net8.0-windows\laba8forms.AssemblyInfoInputs.cache
+D:\Program Files\Programs\Visual Studio 2019 Projects\laba8forms\laba8forms\obj\Debug\net8.0-windows\laba8forms.AssemblyInfo.cs
+D:\Program Files\Programs\Visual Studio 2019 Projects\laba8forms\laba8forms\obj\Debug\net8.0-windows\laba8forms.csproj.CoreCompileInputs.cache
+D:\Program Files\Programs\Visual Studio 2019 Projects\laba8forms\laba8forms\obj\Debug\net8.0-windows\laba8forms.dll
+D:\Program Files\Programs\Visual Studio 2019 Projects\laba8forms\laba8forms\obj\Debug\net8.0-windows\refint\laba8forms.dll
+D:\Program Files\Programs\Visual Studio 2019 Projects\laba8forms\laba8forms\obj\Debug\net8.0-windows\laba8forms.pdb
+D:\Program Files\Programs\Visual Studio 2019 Projects\laba8forms\laba8forms\obj\Debug\net8.0-windows\laba8forms.genruntimeconfig.cache
+D:\Program Files\Programs\Visual Studio 2019 Projects\laba8forms\laba8forms\obj\Debug\net8.0-windows\ref\laba8forms.dll
