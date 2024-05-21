@@ -1,0 +1,27 @@
+[
+    {
+        "Name": "Ivanenko",
+        "Age": "22",
+        "City": "Kyiv"
+    },
+    {
+        "Name": "Petrov",
+        "Age": "30",
+        "City": "Lviv"
+    },
+    {
+        "Name": "Sydorenko",
+        "Age": "25",
+        "City": "Odessa"
+    },
+    {
+        "Name": "Bondarenko",
+        "Age": 40,
+        "City": "Zaporizhzhia"
+    },
+    {
+        "Name": "Tkachenko",
+        "Age": 33,
+        "City": "Vinnytsia"
+    }
+]
