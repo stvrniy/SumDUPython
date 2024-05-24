@@ -1,0 +1,10 @@
+D:\Program Files\Programs\Visual Studio 2019 Projects\11laba\11laba\obj\Debug\11laba.csproj.AssemblyReference.cache
+D:\Program Files\Programs\Visual Studio 2019 Projects\11laba\11laba\obj\Debug\_11laba.Form1.resources
+D:\Program Files\Programs\Visual Studio 2019 Projects\11laba\11laba\obj\Debug\_11laba.Properties.Resources.resources
+D:\Program Files\Programs\Visual Studio 2019 Projects\11laba\11laba\obj\Debug\11laba.csproj.GenerateResource.cache
+D:\Program Files\Programs\Visual Studio 2019 Projects\11laba\11laba\obj\Debug\11laba.csproj.CoreCompileInputs.cache
+D:\Program Files\Programs\Visual Studio 2019 Projects\11laba\11laba\bin\Debug\11laba.exe.config
+D:\Program Files\Programs\Visual Studio 2019 Projects\11laba\11laba\bin\Debug\11laba.exe
+D:\Program Files\Programs\Visual Studio 2019 Projects\11laba\11laba\bin\Debug\11laba.pdb
+D:\Program Files\Programs\Visual Studio 2019 Projects\11laba\11laba\obj\Debug\11laba.exe
+D:\Program Files\Programs\Visual Studio 2019 Projects\11laba\11laba\obj\Debug\11laba.pdb
